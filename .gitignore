@@ -7,8 +7,6 @@ dist-ssr/
 *.local
 .firebase/
 .firebaserc
-firestore.rules
-firestore.indexes.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
